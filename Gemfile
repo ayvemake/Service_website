@@ -4,7 +4,7 @@ source "https://rubygems.org"
 ruby '3.2.2'
 
 # Rails et dépendances de base
-gem "rails", "~> 7.1.0"
+gem "rails", "~> 8.0.1"
 gem "puma", ">= 5.0"
 
 # Base de données
