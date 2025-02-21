@@ -9,7 +9,7 @@ gem "puma", ">= 5.0"
 
 # Base de données
 group :development, :test do
-  gem "sqlite3", "~> 1.4"
+  gem "sqlite3", "~> 2.6"
 end
 
 group :production do
